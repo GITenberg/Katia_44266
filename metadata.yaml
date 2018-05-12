@@ -20,6 +20,8 @@ creator:
 description: Dans ce roman, publié pour la première fois en France en 1888, Tolstoï
   qui prête sa voix à Katia, raconte une simple histoire d'amour entre cette jeune
   femme de 17 ans et son mari de 20 ans son aîné.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44266#Katia
 gutenberg_issued: '2013-11-23'
 gutenberg_type: Text
 identifiers:
