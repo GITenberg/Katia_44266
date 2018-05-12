@@ -1,0 +1,37 @@
+_repo: Katia_44266
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44266-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Tolstoy, Leo, graf
+    aliases:
+    - Толстой, Лев Николаевич
+    - Tolstoy, Lev N.
+    - Tolstoï, Léon
+    - Tolstoy, Graf Leo
+    - Tolstoi, Leo
+    birthdate: 1828
+    deathdate: 1910
+    gutenberg_agent_id: '136'
+    url: http://www.gutenberg.org/2009/agents/136
+    wikipedia: http://en.wikipedia.org/wiki/Leo_Tolstoy
+description: Dans ce roman, publié pour la première fois en France en 1888, Tolstoï
+  qui prête sa voix à Katia, raconte une simple histoire d'amour entre cette jeune
+  femme de 17 ans et son mari de 20 ans son aîné.
+gutenberg_issued: '2013-11-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44266'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Russia -- Social life and customs -- 19th century -- Fiction'
+- !lcc 'PG'
+- !lcsh 'Marriage -- Fiction'
+title: Katia
+url: http://www.gutenberg.org/ebooks/44266
